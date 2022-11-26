@@ -1,3 +1,10 @@
+# Name: POluru Samsuhas
+# college name : indian institute of information technology, ranchi
+# year of passing : 2023 may
+# phone number : 8019947328
+# email address : sam.btech.ec19@iiitranchi.ac.in  
+
+
 import math
 class ShopCart_Basket():
   def __init__(self,Product,Unit_Price_in_Rupees,GST_in_Per,Quantity):
